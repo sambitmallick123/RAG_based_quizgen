@@ -85,7 +85,7 @@ streamlit run app.py --server.address 0.0.0.0 --server.port 13000
 
 ## ✨ Credits
 
-Developed by [Sambit Mallick].
+Developed by Sambit Mallick.
 
 - Built with open-source: Streamlit, HuggingFace Transformers, ChromaDB, MiniLM, PyPDF2, python-docx, openpyxl, python-pptx, pandas.
 
