@@ -49,7 +49,7 @@ pip install streamlit chromadb sentence-transformers transformers PyPDF2 python-
 3. **Prep Directories**
 
     ```
-    mkdir -p chroma_db logs
+    mkdir -p chroma_db logs models
     ```
 
 ## 🏃 Running
@@ -85,7 +85,7 @@ streamlit run app.py --server.address 0.0.0.0 --server.port 13000
 
 ## ✨ Credits
 
-Developed by [Your Name/Team].
+Developed by [Sambit Mallick].
 
 - Built with open-source: Streamlit, HuggingFace Transformers, ChromaDB, MiniLM, PyPDF2, python-docx, openpyxl, python-pptx, pandas.
 
